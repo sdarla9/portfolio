@@ -2,7 +2,7 @@
 import { motion } from "framer-motion";
 
 import crm from '../assets/Logos/CRM.jpg'
-import dataanalysis from '../assets/logos/Data Analysis.jpg'
+import dataanalysis from '../assets/Logos/Data Analysis.jpg'
 import advancedExcel from "../assets/Logos/Advanced excel.jpg";
 import fpa from "../assets/Logos/FPA.jpg";
 import orderToCash from "../assets/Logos/Order to Cash.jpg";
