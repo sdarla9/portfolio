@@ -1,4 +1,3 @@
-import aboutImg from '../assets/about.jpg'
 import { ABOUT_TEXT } from '../constrants';
 import { motion } from "framer-motion";
 import Dataimage from '../assets/Logos/Data Analytics.jpg'
