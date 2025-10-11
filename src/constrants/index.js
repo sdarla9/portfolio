@@ -96,7 +96,7 @@ export const PROJECTS = [
   {
     title: "Dashboard Automation using python, mysql and power bi",
    description:
-     "• Trained on statistics, python, SQL power bi and machine learning"
+     "• Trained on statistics, python, SQL, Power BI and Machine Learning"
     description:
       "•	Trained on Income Statement, Balance Sheet, Cash Flow Statement and Ratio Analysis.",
     technologies: ["Attended 45 days of Finalyst course from Smart Steps"],
