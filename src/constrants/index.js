@@ -29,7 +29,7 @@ export const EXPERIENCES = [
       "•	Provide insights on product cancellations to Senior management to support proactive decision-making.",
       "•	Build predictive models using historical data to enhance forecasting accuracy and drive organizational growth.",
      "•	Use mean, median, mode, SD to track revenue trends and improve renewal forecasts.",
-     "•	Apply normal distribution and IQR to group customers, analyze renewal patterns and support effective budget planning.",
+     "•	Apply normal distribution and IQR to group customers, analyze renewal patterns and support effective budget planning."
     ],
     
     technologies: ["Salesforce", "Python", "MySQL", "Power BI", "Excel", "Macros", "CRM", "SAP"],
@@ -42,12 +42,12 @@ export const EXPERIENCES = [
     description : [
       "April 2014 – October 2016 (2.6 years) Supporting to P2P (AP, Invoice processing, Vendor Management and Reporting).",
       "•	Extracted and processed invoice data from SAP using advanced excel functions: VLOOK UP, XLOOK UP, IF, NESTED IF, AND, OR, SUM, SUMIF, SUMIFS, COUNT, COUNTIFS.",
-      "•	Build and maintained Pivot Tables to analyze refund patterns, identify recurring vendor issues, and deliver actionable insights to leadership."
-      "•	Handle invoice processing across multiple geographies, ensuring compliance with local and international financial standards."
-      "•	Managed urgent vendor payments and special handling requests with precision and timeliness."
-      "•	Investigated and resolved invoice-discrepancies, including PO/Non-PO errors, via cross-functional communication channel and error reports."
-      "•	Automated daily performance tracking, using Excel Macros and formulas, delivering visual reports"
-      "•	Prepared structured data for urgent payment handling using proper variable assignment (e.g., defining columns as Vendor-ID, Due-Date, Amount-due) for traceability and audit readiness."
+      "•	Build and maintained Pivot Tables to analyze refund patterns, identify recurring vendor issues, and deliver actionable insights to leadership.",
+      "•	Handle invoice processing across multiple geographies, ensuring compliance with local and international financial standards.",
+      "•	Managed urgent vendor payments and special handling requests with precision and timeliness.",
+      "•	Investigated and resolved invoice-discrepancies, including PO/Non-PO errors, via cross-functional communication channel and error reports.",
+      "•	Automated daily performance tracking, using Excel Macros and formulas, delivering visual reports",
+      "•	Prepared structured data for urgent payment handling using proper variable assignment (e.g., defining columns as Vendor-ID, Due-Date, Amount-due) for traceability and audit readiness.",
       "•	Cleaned and validated vendor master data using duplicate checks and lookup functions to maintain accuracy in payment processing."
 
     ],
@@ -59,7 +59,7 @@ export const EDUCATION = [
 {
     Qualification: "MBA, 2013",
     Branch:"Finance & Marketing",
-    Institute: "Godavari institute of engineering and Technology, Rajahmundry, AP",
+    Institute: "Godavari Institute of Engineering and Technology, Rajahmundry, AP",
     Board:"JNTU-KAKINADA",
     CGPA:"68 %",
     image:Jntuk
@@ -77,16 +77,16 @@ export const EDUCATION = [
   {
     Qualification: "INTERMEDIATE, 2006-2008",
     Institute: "T.R.R Govt Junior College, Kandukur, AP",
-    Board:"Board Of Intermediate Education Of Andra-Pradesh",
-    CGPA:"73 %",
+    Board:"Board Of Intermediate Education Of Andra Pradesh",
+    CGPA:"73%",
     image:ssss
     
     
   },
   {Qualification: "SSC, 2006-2008",
     Institute: "Z.P.H.S (Boys) School, Kandukur , AP",
-    Board:"Board Of Secundary Education Of Andra-Pradesh",
-    CGPA:"53 %",
+    Board:"Board Of Secondary Education Of Andra Pradesh",
+    CGPA:"53%",
     image:ssss
   }
  
@@ -94,13 +94,17 @@ export const EDUCATION = [
 
 export const PROJECTS = [
   {
-    title: "Dashboard Automation using python, mysql and power bi",
+    title: "Dashboard Automation",
    description:
-     "• Trained on statistics, python, SQL, Power BI and Machine Learning"
+     "• Trained on statistics, python, SQL, Power BI and Machine Learning",
+    technologies: ["Python", "SQL", "Power BI"],
+  },
+   {
+    title: "Financial Statement Analysis",
     description:
       "•	Trained on Income Statement, Balance Sheet, Cash Flow Statement and Ratio Analysis.",
-    technologies: ["Attended 45 days of Finalyst course from Smart Steps"],
-  },
+    technologies: ["Advanced Excel","SAP", "Trained on O2C, P2P and Company Analysis"],
+  }
 ];
 
 export const CONTACT = {
