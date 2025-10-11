@@ -20,16 +20,16 @@ export const EXPERIENCES = [
     company: "Infor (India) Private limited",
     description : [
       "October 2016 – PRESENT (9+ years) supporting O2C process by managing the customers renewal data and preparing forecast, budgeting and dashboards pipelines.",
-      "•	Extract and analyze customer revenue data from salesforce to support financial planning and performance tracking.",
-      "•	Design complex SQL queries to integrate data across multiple tables and build efficient customer database.",
-      "•	Develop interactive Power BI dashboards to visualize key financial metrics, monitor pipeline performance, and track working capital trends.",
-      "•	Lead ETL process to structure datasets for forecasting, revenue analysis and strategic decisions.",
-      "•	Generate automated reports (weekly, monthly, quarterly, Annually) using machine learning models to predict the future revenue information.",
-      "•	Analyze customer aging and health reports to identify high risk accounts and forecast potential revenue cancellations.",
-      "•	Provide insights on product cancellations to Senior management to support proactive decision-making.",
-      "•	Build predictive models using historical data to enhance forecasting accuracy and drive organizational growth.",
-     "•	Use mean, median, mode, SD to track revenue trends and improve renewal forecasts.",
-     "•	Apply normal distribution and IQR to group customers, analyze renewal patterns and support effective budget planning."
+      "Extract and analyze customer revenue data from salesforce to support financial planning and performance tracking.",
+      "Design complex SQL queries to integrate data across multiple tables and build efficient customer database.",
+      "Develop interactive Power BI dashboards to visualize key financial metrics, monitor pipeline performance, and track working capital trends.",
+      "Lead ETL process to structure datasets for forecasting, revenue analysis and strategic decisions.",
+      "Generate automated reports (weekly, monthly, quarterly, Annually) using machine learning models to predict the future revenue information.",
+      "Analyze customer aging and health reports to identify high risk accounts and forecast potential revenue cancellations.",
+      "Provide insights on product cancellations to Senior management to support proactive decision-making.",
+      "Build predictive models using historical data to enhance forecasting accuracy and drive organizational growth.",
+      "Use mean, median, mode, SD to track revenue trends and improve renewal forecasts.",
+      "Apply normal distribution and IQR to group customers, analyze renewal patterns and support effective budget planning."
     ],
     
     technologies: ["Salesforce", "Python", "MySQL", "Power BI", "Excel", "Macros", "CRM", "SAP"],
@@ -41,14 +41,14 @@ export const EXPERIENCES = [
     company: "Genpact India Private Limited.",
     description : [
       "April 2014 – October 2016 (2.6 years) Supporting to P2P (AP, Invoice processing, Vendor Management and Reporting).",
-      "•	Extracted and processed invoice data from SAP using advanced excel functions: VLOOK UP, XLOOK UP, IF, NESTED IF, AND, OR, SUM, SUMIF, SUMIFS, COUNT, COUNTIFS.",
-      "•	Build and maintained Pivot Tables to analyze refund patterns, identify recurring vendor issues, and deliver actionable insights to leadership.",
-      "•	Handle invoice processing across multiple geographies, ensuring compliance with local and international financial standards.",
-      "•	Managed urgent vendor payments and special handling requests with precision and timeliness.",
-      "•	Investigated and resolved invoice-discrepancies, including PO/Non-PO errors, via cross-functional communication channel and error reports.",
-      "•	Automated daily performance tracking, using Excel Macros and formulas, delivering visual reports",
-      "•	Prepared structured data for urgent payment handling using proper variable assignment (e.g., defining columns as Vendor-ID, Due-Date, Amount-due) for traceability and audit readiness.",
-      "•	Cleaned and validated vendor master data using duplicate checks and lookup functions to maintain accuracy in payment processing."
+      "Extracted and processed invoice data from SAP using advanced excel functions: VLOOK UP, XLOOK UP, IF, NESTED IF, AND, OR, SUM, SUMIF, SUMIFS, COUNT, COUNTIFS.",
+      "Build and maintained Pivot Tables to analyze refund patterns, identify recurring vendor issues, and deliver actionable insights to leadership.",
+      "Handle invoice processing across multiple geographies, ensuring compliance with local and international financial standards.",
+      "Managed urgent vendor payments and special handling requests with precision and timeliness.",
+      "Investigated and resolved invoice-discrepancies, including PO/Non-PO errors, via cross-functional communication channel and error reports.",
+      "Automated daily performance tracking, using Excel Macros and formulas, delivering visual reports",
+      "Prepared structured data for urgent payment handling using proper variable assignment (e.g., defining columns as Vendor-ID, Due-Date, Amount-due) for traceability and audit readiness.",
+      "Cleaned and validated vendor master data using duplicate checks and lookup functions to maintain accuracy in payment processing."
 
     ],
     
@@ -96,13 +96,13 @@ export const PROJECTS = [
   {
     title: "Dashboard Automation",
    description:
-     "• Trained on statistics, python, SQL, Power BI and Machine Learning",
+     "Trained on statistics, python, SQL, Power BI and Machine Learning",
     technologies: ["Python", "SQL", "Power BI"],
   },
    {
     title: "Financial Statement Analysis",
     description:
-      "•	Trained on Income Statement, Balance Sheet, Cash Flow Statement and Ratio Analysis.",
+      "Trained on Income Statement, Balance Sheet, Cash Flow Statement and Ratio Analysis.",
     technologies: ["Advanced Excel","SAP", "Trained on O2C, P2P and Company Analysis"],
   }
 ];
