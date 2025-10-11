@@ -8,55 +8,51 @@ export const fullName = "DARLA SRIHARI";
 export const roles = "SENIOR FINANCIAL ANALYST";
 
 
-export const Profile_Summary = `Results driven Senior Financial Analyst with extensive expertise in Financial Statement Analysis, Cost Accounting, Forecasting, Budgeting, with a strong commitment to IND-AS, GAAP compliance and expertise in Ratio Analysis and proven ability to enhance financial operations through strategic planning and issues resolutions. Adept at building and maintaining long term relationship with stakeholders and clients, driving organizational goals.`;
+export const Profile_Summary = `Senior Financial Analyst transitioning into data science with strong skills in Python, SQL, Power BI, Excel and Macros. Experienced in financial operations, data modeling, and automation, with solid foundation in statistics and linear algebra. Hands on experience using NumPy and pandas for analytical model development, focused on data driven forecasting and budgeting, and decisions making.`;
 
-export const ABOUT_TEXT = `Leveraging over a decade (11 years) of expertise across (Financial Operations Analyst, Data & Dashboard Analysis, Corporate relationship management, Billing, Collections, Cash Apps, dispute management, risk management, and customer interaction. Proven ability to streamline financial process, and strong client partnership)`
+export const ABOUT_TEXT = `Over 11+ years of experience across financial operations, with past 2 years focused on data analytics. Proven expertise in dashboard development, automated reporting, and data visualization to deliver actionable that support strategic decision-making.`;
 export const EXPERIENCES = [
  
   {
     year: "October 2016-Present",
     image: inforLogo,
-    role: "Senior Finanacial Analyst",
+    role: "Senior Financial Analyst",
     company: "Infor (India) Private limited",
     description : [
-      "8+ years of experience in O2C (AR), Operational Management, Data Analysis, Cost Analysis, Forecasting, and Risk Management.",
-      "Oversee Order to Cash (O2C), Accounts Receivable, General Ledger, collections, cash applications, customer support, and query resolution with a focus on efficiency and accuracy.",
-      "Act as Team Lead and Process Champion, participating in the Emerging Leadership Program. Responsible for recruiting, training, and mentoring new team members.",
-      "Facilitate quarterly discussions with clients to identify new projects and continuous improvement opportunities.",
-      "Lead initiatives to resolve process exceptions and revenue discrepancies, ensuring accurate financial reporting.",
-      "Maintain and analyze customer data to provide critical financial insights for management decision-making. Prepare, extract, transform, and load data for forecasting and analysis.",
-      "Oversee monthly billing and accrual processes for various revenue streams, ensuring precise and timely financial results.",
-      "Develop and analyze data in Excel to identify trends, revenue patterns, profitability, and expense information.",
-      "Conduct audits for team members and translate concepts into actionable practices, ensuring compliance and process integrity.",
-      "Manage renewal processes and perform maintenance cost analysis for regional customers to optimize revenue.",
-      "Prepare and update pipeline and dashboards daily and weekly to track team performance and manage working capital.",
-      "Identify customer issues, analyze trends and payment histories, and implement solutions to ensure timely payments.",
-      "Prepare aging reports for uncollectible invoices and engage with customers to resolve outstanding payment issues."
+      "October 2016 – PRESENT (9+ years) supporting O2C process by managing the customers renewal data and preparing forecast, budgeting and dashboards pipelines.",
+      "•	Extract and analyze customer revenue data from salesforce to support financial planning and performance tracking.",
+      "•	Design complex SQL queries to integrate data across multiple tables and build efficient customer database.",
+      "•	Develop interactive Power BI dashboards to visualize key financial metrics, monitor pipeline performance, and track working capital trends.",
+      "•	Lead ETL process to structure datasets for forecasting, revenue analysis and strategic decisions.",
+      "•	Generate automated reports (weekly, monthly, quarterly, Annually) using machine learning models to predict the future revenue information.",
+      "•	Analyze customer aging and health reports to identify high risk accounts and forecast potential revenue cancellations.",
+      "•	Provide insights on product cancellations to Senior management to support proactive decision-making.",
+      "•	Build predictive models using historical data to enhance forecasting accuracy and drive organizational growth.",
+     "•	Use mean, median, mode, SD to track revenue trends and improve renewal forecasts.",
+     "•	Apply normal distribution and IQR to group customers, analyze renewal patterns and support effective budget planning.",
     ],
     
-    technologies: ["CRM", "Salesforce","Excel","Power-BI"],
+    technologies: ["Salesforce", "Python", "MySQL", "Power BI", "Excel", "Macros", "CRM", "SAP"],
   },
   {
-    year: "April 2014 - Sepetember 2016",
+    year: "April 2014 - September 2016",
     image:Genpact,
     role: "Process Developer",
     company: "Genpact India Private Limited.",
     description : [
-      "2.6 years of experience in P2P (Accounts Payable, Invoice Processing, Vendor Management, QC, and Allocation).",
-      "Expertise in Procure to Pay (P2P) processes, including invoice allocation and overseeing team operations post-invoice.",
-      "Efficiently handle invoice processing for multiple countries, ensuring adherence to local and international standards.",
-      "Systematically categorize invoices by vendor and include detailed remittance information for streamlined processing.",
-      "Monitor and manage customer and supplier refunds daily to ensure prompt and accurate resolution.",
-      "Perform internal audits and conduct refresher sessions to minimize errors and prevent escalations.",
-      "Produce daily operations reports for SAP teams and management to provide insights into performance and operational efficiency.",
-      "Manage urgent payments and special handling requests for vendors with accuracy and timeliness.",
-      "Investigate and resolve invoice-related issues, including payment discrepancies and PO/non-PO errors, through various communication channels and error reports.",
-      "Collaborate with the vendor management team to address and resolve vendor-related concerns effectively.",
-      "Partner with the business banking team to ensure timely payment release to customers in alignment with invoice due dates.",
-      "Identify, monitor, and resolve errors and duplicate invoices daily to maintain accuracy and operational efficiency."
+      "April 2014 – October 2016 (2.6 years) Supporting to P2P (AP, Invoice processing, Vendor Management and Reporting).",
+      "•	Extracted and processed invoice data from SAP using advanced excel functions: VLOOK UP, XLOOK UP, IF, NESTED IF, AND, OR, SUM, SUMIF, SUMIFS, COUNT, COUNTIFS.",
+      "•	Build and maintained Pivot Tables to analyze refund patterns, identify recurring vendor issues, and deliver actionable insights to leadership."
+      "•	Handle invoice processing across multiple geographies, ensuring compliance with local and international financial standards."
+      "•	Managed urgent vendor payments and special handling requests with precision and timeliness."
+      "•	Investigated and resolved invoice-discrepancies, including PO/Non-PO errors, via cross-functional communication channel and error reports."
+      "•	Automated daily performance tracking, using Excel Macros and formulas, delivering visual reports"
+      "•	Prepared structured data for urgent payment handling using proper variable assignment (e.g., defining columns as Vendor-ID, Due-Date, Amount-due) for traceability and audit readiness."
+      "•	Cleaned and validated vendor master data using duplicate checks and lookup functions to maintain accuracy in payment processing."
+
     ],
     
-    technologies: ["SAP(CERPS)", "Excel"],
+    technologies: ["SAP(CERPS)", "Excel","Macros"],
   }
 ];
 export const EDUCATION = [
@@ -98,7 +94,9 @@ export const EDUCATION = [
 
 export const PROJECTS = [
   {
-    title: "Financial Statement Analysis",
+    title: "Dashboard Automation using python, mysql and power bi",
+   description:
+     "• Trained on statistics, python, SQL power bi and machine learning"
     description:
       "•	Trained on Income Statement, Balance Sheet, Cash Flow Statement and Ratio Analysis.",
     technologies: ["Attended 45 days of Finalyst course from Smart Steps"],
