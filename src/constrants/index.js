@@ -8,7 +8,7 @@ export const fullName = "DARLA SRIHARI";
 export const roles = "SENIOR FINANCIAL ANALYST";
 
 
-export const Profile_Summary = `Senior Financial Analyst transitioning into data science with strong skills in Python, SQL, Power BI, Excel and Macros. Experienced in financial operations, data modeling, and automation, with solid foundation in statistics and linear algebra. Hands on experience using NumPy and pandas for analytical model development, focused on data driven forecasting and budgeting, and decisions making.`;
+export const Profile_Summary = `Senior Financial Analyst transitioning into data science, with strong skills in Python, SQL, Power BI, machine learning, Excel, and Macros. Experienced in financial operations automation and data modeling with a solid foundation in statistics and linear algebra. Proficient in NumPy, pandas, Azure Data Services, and ML models for analytical model development. Focused on data-driven forecasting, budgeting, and variance analysis to support strategic financial decision-making. `;
 
 export const ABOUT_TEXT = `Over 11+ years of experience across financial operations, with past 2 years focused on data analytics. Proven expertise in dashboard development, automated reporting, and data visualization to deliver actionable that support strategic decision-making.`;
 export const EXPERIENCES = [
